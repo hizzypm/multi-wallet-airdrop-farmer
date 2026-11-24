@@ -1,0 +1,7 @@
+web3
+eth-account
+python-dotenv
+colorama
+tabulate
+requests
+aiohttp
